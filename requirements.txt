@@ -3,6 +3,6 @@ langchain
 langchain-openai
 langchain-groq
 ipykernel
-tavily-python
+tavily-pythonuv 
 python-dotenv
 langchain_quickjs
